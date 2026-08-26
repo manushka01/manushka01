@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anushka Prajapati
+# Hi 👋👋, I'm Anushka Prajapati
 
 ### 💻 Full Stack Developer | CSE Graduate
 
