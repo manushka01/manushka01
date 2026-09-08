@@ -1,6 +1,6 @@
 # Hi 👋👋, I'm Anushka Prajapati
 
-### 💻 Full Stack Developer | CSE Graduate
+### 💻 Full Stack Developer || CSE Graduate
 
 I'm a Computer Science & Engineering graduate passionate about **full stack development, problem-solving, and building modern web applications**. I enjoy working across both frontend and backend to create complete, responsive, and user-friendly applications.
 
